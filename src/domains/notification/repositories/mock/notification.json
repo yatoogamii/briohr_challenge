@@ -1,0 +1,63 @@
+{
+    "notifications": [
+        {
+            "id": "qe09wd",
+            "type": "happy-birthday",
+            "channels": [
+                "ui",
+                "email"
+            ],
+            "userId": "12",
+            "companyId": "43",
+            "subject": "subject 1",
+            "content": "content 1"
+        },
+        {
+            "id": "fe93he",
+            "type": "monthly-payslip",
+            "channels": [
+                "email"
+            ],
+            "userId": "13",
+            "companyId": "43",
+            "subject": "subject 1",
+            "content": "content 1"
+        },
+        {
+            "id": "fs98sh",
+            "type": "happy-birthday",
+            "channels": [
+                "ui",
+                "email"
+            ],
+            "userId": "1",
+            "companyId": "1",
+            "subject": "subject 1",
+            "content": "content 1"
+        },
+        {
+            "id": "ld07wg",
+            "type": "happy-birthday",
+            "channels": [
+                "ui",
+                "email"
+            ],
+            "userId": "1",
+            "companyId": "1",
+            "subject": "subject 1",
+            "content": "content 1"
+        },
+        {
+            "id": "dw989dw",
+            "type": "happy-birthday",
+            "channels": [
+                "ui",
+                "email"
+            ],
+            "userId": "1",
+            "companyId": "1",
+            "subject": "subject 1",
+            "content": "content 1"
+        }
+    ]
+}

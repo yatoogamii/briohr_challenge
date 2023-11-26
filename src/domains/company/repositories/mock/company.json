@@ -1,0 +1,31 @@
+{
+    "companies": [
+        {
+            "id": "53c00d",
+            "name": "Facebook",
+            "subscribedChannels": [
+                "ui"
+            ]
+        },
+        {
+            "id": "85a3wf",
+            "name": "Apple",
+            "subscribedChannels": [
+                "email"
+            ]
+        },
+        {
+            "id": "47e75e",
+            "name": "Twitter",
+            "subscribedChannels": [
+                "ui",
+                "email"
+            ]
+        },
+        {
+            "id": "12jw90",
+            "name": "Goole",
+            "subscribedChannels": []
+        }
+    ]
+}
